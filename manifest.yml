@@ -2,4 +2,5 @@ applications:
 - path: .
   memory: 256M
   instances: 1
+  domain: eu-de.mybluemix.net
   disk_quota: 1024M
